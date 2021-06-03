@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration and resolution of the Lords and Commons assembled in Parliament concerning His Majesties late proclamation for suppressing the present rebellion under the command of Robert Earle of Essex and the gracious offer of His Majesties free pardon to him and all such of his adherents as within 6 dayes after the date thereof shall lay downe their armes</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21906</idno><idno type="EEBO-CITATION">11231427</idno>
+  <idno type="VID">204938</idno>
+  <idno type="EEBO-PROQUEST">2240865030</idno>
+  
+            <idno type="STC">Wing E1316</idno>
+            <idno type="OCLC">11231427</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21906)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204938)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:69)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration and resolution of the Lords and Commons assembled in Parliament concerning His Majesties late proclamation for suppressing the present rebellion under the command of Robert Earle of Essex and the gracious offer of His Majesties free pardon to him and all such of his adherents as within 6 dayes after the date thereof shall lay downe their armes</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 15, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Ordered by the Lords and Commons assembled in Parliament that this declaration and resolution be forthwith printed and published. Hen. Elsynge Cler. Parl. D. Com."</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204938:1"/>
+            <pb facs="tcp:204938:1"/>
+            <p> A DECLARATION And RESOLUTION Of the LORDS and COMMONS Assembled in PARLIAMENT.</p>
+            <p>Concerning His Majesties late Proclamation for suppressing the present Rebellion, Under the Command of <hi>Robert</hi> Earle of <hi>Essex,</hi> and the gracious Offer of his Majesties free pardon to him and all such of his adherents, as within 6 dayes after the date thereof, shall lay downe their Armes.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>
+                           <hi>Ordered by the Lords and Commons Assembled in Par<g ref="char:EOLhyphen"/>liament, that this Declaration and Resolution be forthwith Printed and Published.</hi>
+                        </p>
+                        <p>Hen. Elsyng Cler. Parl. D. Com.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>August</hi> 15.</p>
+            <p>London, Printed for <hi>Iohn Wright.</hi> 1642.</p>
+            <pb facs="tcp:204938:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:204938:2"/>
+            <head>A DECLARATION Of the LORDS and COMMONS.</head>
+            <p>The Lords and Commons having received in a letter from his Majesty a Printed pa<g ref="char:EOLhyphen"/>per, Intituled, A Proclamation for the sup<g ref="char:EOLhyphen"/>pressing of the present Rebellion under the Command of <hi>Robert</hi> Earle of <hi>Essex,</hi> and the gracious offer of his Majesties free pardon to him and all such of his adherents, as shal with<g ref="char:EOLhyphen"/>in six dayes after the date thereof lay downe their Armes, doe publish and declare, that the matter of this libellious and scandalous paper, is the venome of those Traiterous Councel<g ref="char:EOLhyphen"/>lors about his Majesty, long since discovered, and so often complained of by both Houses of Parliament, who having for many yeares to<g ref="char:EOLhyphen"/>gether
+<pb facs="tcp:204938:3"/> carried on a wicked designe, to alter Religion, and to introduce Popery, Supersti<g ref="char:EOLhyphen"/>tion, and Ignorance, the ready way to an Ar<g ref="char:EOLhyphen"/>bitrary and Tirannicall Governement, and for that purpose, not onely maintained Agents at Rome, but invited and procured sundry Nuntioes, or Agents, to be sent into this King<g ref="char:EOLhyphen"/>dome from the Pope, by which meanes Po<g ref="char:EOLhyphen"/>pery and Superstition was so farre advanced, that nothing but the convening of this Parlia<g ref="char:EOLhyphen"/>ment, occasioned by the comming of the Scots, could in all humaine reason have pre<g ref="char:EOLhyphen"/>vented them in their designe, the onely true reason which these mischievous Councellors, maligning that Power which opposes it selfe a<g ref="char:EOLhyphen"/>gainst their destructive and horrid Counsels, have now at last, as the Master-piece of all their Machinations, advised his Majesty, in effect, to proclaim at once, his House of Peeres, the Hereditary Councellors of the King<g ref="char:EOLhyphen"/>dome, and his House of Commons, the re<g ref="char:EOLhyphen"/>presentative Body of the whole Commons of the Kingdome, to be all Rebels and Traytors,
+<pb facs="tcp:204938:3"/> &amp; by that paper have endeavoured so to blind the eyes of the people, as to make them guilty of their own destruction, by helping to subdue and destroy the Parliament, (the onely means under God, to preserve their Religion, Law, and Liberties) and to perswade the Kingdom that his Majesty by assistance of Papists and persons popishly affected, will maintaine the Protestant Religion. That by the helpe of men utlawed and of desperate fortunes will main<g ref="char:EOLhyphen"/>taine the Lawes of the Land, and with Fugi<g ref="char:EOLhyphen"/>tives from parliament, and Delinquents to the Parliament▪ wil preserve the priviledges ther<g ref="char:EOLhyphen"/>of: an attempt so desperate and so transcen<g ref="char:EOLhyphen"/>dently wicked, that the Lords and Com<g ref="char:EOLhyphen"/>mons doe unanimously publish and declare, that all they who have advised, contrived, a<g ref="char:EOLhyphen"/>betted, or countenanced, or hereafter shall ab<g ref="char:EOLhyphen"/>bet, or countenance the said Proclamation to be Traitors and Enemies to God, the King, and Kingdome, and to be guilty of the highest de<g ref="char:EOLhyphen"/>gree of Treason that can be committed against the King and Kingdome, and that they wil by
+<pb facs="tcp:204938:4"/> the assistance of Almighty God, and of all ho<g ref="char:EOLhyphen"/>nest English Protestants, and lover of their Country, doe their best endeavours (even to the utmost hazard of their lives and fortunes, to bring all such unparall'd Traytors to a spee<g ref="char:EOLhyphen"/>dy and exemplary punishment. And whereas the Lords and Commons in Parliament did formerly chuse the Earle of <hi>Essex</hi> to be Cap<g ref="char:EOLhyphen"/>taine Generall of such Forces as are, or shall be raised, for the maintenance of the true Pro<g ref="char:EOLhyphen"/>testant Religion, the Kings person, the Lawes of the Land, the peace of the Kingdome the Liberty and propriety of the Subject▪ and the rights and priviledges of Parliament, The said Lords and Commons do declare, that they wil maintain and assist him, and adhere unto him the said Earle, with their Lives and Estates in the same cause, as in conscience and duty to God, the King, and their Country they are bound to do. And lastly the Lords and Com<g ref="char:EOLhyphen"/>mons doe further declare, that notwithstan<g ref="char:EOLhyphen"/>ding those wicked Councells which inclined his Majesty to make war against our brethren
+<pb facs="tcp:204938:4"/> of <hi>Scotland,</hi> and by prayers and proclamations read in Churches to pronounce them Rebels and Traytors that with-held his Majesty from setting forth any Proclamation against those bloody and barbarous Rebells in <hi>Ireland,</hi> till <hi>January</hi> last, although the rebellion brak forth the 23 of October before, and notwithstanding the importunity of both Houses of parliament that a Declaration might issue to that pur<g ref="char:EOLhyphen"/>pose, have now advised and prevailed with his Majesty by this proclamation, to invite his Subjects to destroy his parliament and good people by <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Civill War, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd by tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> me<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es to bring ruine, confusion and perpetuall save<g ref="char:EOLhyphen"/>ry upon the surviving part of a then wretched Kingdome. Yet the Lords and Common, to witnesse their constant and unshaken Loyalty and affection to his Majesty, do solemnely de<g ref="char:EOLhyphen"/>clare, That if his Majesty shall immediately disband all his forces, and be pleased to aban<g ref="char:EOLhyphen"/>don those wicked Councellors, &amp; leave them to condigne punishment, and return and hear<g ref="char:EOLhyphen"/>ken to the wholesome advise of his Great
+<pb facs="tcp:204938:5"/> Counsell: they will really indeavour to make both his Majesty and his Posterity, as Great, Rich, and Potent, as much beloved at home, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d feared abrod, as an <hi>Prince</hi> that ever swa<g ref="char:EOLhyphen"/>yed this Scepter: which is their firme and constant Resolution.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204938:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
